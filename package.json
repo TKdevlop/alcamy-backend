@@ -26,7 +26,10 @@
     "pg": "^7.12.1",
     "sequelize": "^5.13.0",
     "simple-encryptor": "^3.0.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.2.0",
+    "tsconfig-paths": "^3.8.0",
+    "typescript": "^3.5.3",
+    "ts-node": "^8.3.0"
   },
   "devDependencies": {
     "@types/config": "^0.0.34",
@@ -40,14 +43,9 @@
     "@types/sequelize": "^4.28.4",
     "@types/socket.io": "^2.1.2",
     "@types/supertest": "^2.0.8",
-    "cross-env": "^5.2.0",
-    "express-list-endpoints": "^4.0.1",
     "jest": "^24.8.0",
     "supertest": "^4.0.2",
     "ts-jest": "^24.0.2",
-    "ts-node": "^8.3.0",
-    "nodemon": "1.18.11",
-    "tsconfig-paths": "^3.8.0",
-    "typescript": "^3.5.3"
+    "nodemon": "1.18.11"
   }
 }
