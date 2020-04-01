@@ -1,0 +1,4 @@
+{
+  "MONGODB": "mongodb+srv://vg_teamtasks_admin:385BN5xmcAneQ9U5@vg-teamtasks-kkxxq.mongodb.net/test?retryWrites=true",
+  "JWT_SERECT": "XKdd8fGXz6gENCrc3bBV9HWP8ZmkvfQnmBRWg7P2jMmEVEYWrPg9un"
+}

@@ -1,0 +1,4 @@
+{
+  "MONGODB": "mongodb+srv://jeff:8vyaBajfIjzQitaY@cluster0-p5y6t.mongodb.net/test?retryWrites=true&w=majority",
+  "JWT_SECRET": "XKdd8fGXz6gENCrc3bBV9HWP8ZmkvfQnmBRWg7P2jMmEVEYWrPg9un"
+}

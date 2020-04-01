@@ -1,0 +1,4 @@
+{
+  "MONGODB": "mongodb+srv://jeff:jeff@cluster0-p5y6t.mongodb.net/test?retryWrites=true&w=majority",
+  "JWT_SERECT": "XKdd8fGXz6gENCrc3bBV9HWP8ZmkvfQnmBRWg7P2jMmEVEYWrPg9un"
+}
